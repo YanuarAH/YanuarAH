@@ -74,7 +74,7 @@ Sebuah sistem informasi desa lengkap yang dibangun dengan Laravel. Fitur termasu
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YanuarAH&show_icons=true&locale=en&theme=radical" alt="Statistik GitHub" />
 <br/><br/>
-<img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="Bahasa Pemrograman Teratas" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanuarAH" alt="Bahasa Pemrograman Teratas" />
 </p>
 
 📫 Hubungi Saya
