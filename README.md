@@ -46,23 +46,12 @@ Ganti link dan deskripsinya.
 <td width="50%" valign="top">
 <h3 align="center">Website Profil Desa Metesih</h3>
 <br />
-<a target="_blank" href="https://github.com/[NAMA_PENGGUNA_GITHUB_ANDA]/website-profile-desa-metesih">
+<a target="_blank" href="https://github.com/YanuarAH/website-profile-desa-metesih">
 <img src="https://placehold.co/400x250/3b82f6/ffffff%3Ftext%3DWebsite%2BDesa%2BMetesih" alt="Proyek Website Desa Metesih"/>
 </a>
 <br />
 <p align="center">
 Sebuah sistem informasi desa lengkap yang dibangun dengan Laravel. Fitur termasuk manajemen berita, galeri, informasi kegiatan, dan panel admin yang komprehensif.
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">[Nama Proyek Lain]</h3>
-<br />
-<a target="_blank" href="[Link ke Repositori Proyek Lain]">
-<img src="https://placehold.co/400x250/10b981/ffffff%3Ftext%3DProyek%2BLain" alt="Proyek Lain"/>
-</a>
-<br />
-<p align="center">
-[Deskripsi singkat tentang proyek kedua Anda, apa tujuannya, dan teknologi apa yang digunakan.]
 </p>
 </td>
 </tr>
