@@ -72,14 +72,14 @@ Sebuah sistem informasi desa lengkap yang dibangun dengan Laravel. Fitur termasu
 <!-- Ganti [NAMA_PENGGUNA_GITHUB_ANDA] dengan username GitHub Anda -->
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=[NAMA_PENGGUNA_GITHUB_ANDA]&show_icons=true&locale=en&theme=radical" alt="Statistik GitHub" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YanuarAH&show_icons=true&locale=en&theme=radical" alt="Statistik GitHub" />
 <br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3D[NAMA_PENGGUNA_GITHUB_ANDA]&layout=compact&locale=en&theme=radical" alt="Bahasa Pemrograman Teratas" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DYanuarAH&layout=compact&locale=en&theme=radical" alt="Bahasa Pemrograman Teratas" />
 </p>
 
 📫 Hubungi Saya
 <p align="left">
-<a href="https://linkedin.com/in/[NAMA_PENGGUNA_LINKEDIN_ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/[NAMA_PENGGUNA_INSTAGRAM_ANDA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yanuar-al-hisyami-47615a13a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/yanuar_isam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <!-- Tambahkan media sosial lain jika ada -->
 </p>
