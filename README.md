@@ -15,13 +15,10 @@ Saya adalah seorang mahasiswa Informatika di Universitas Sebelas Maret (UNS) yan
 
 🎓 Saat ini sedang menempuh pendidikan di Informatika UNS.
 
-🌱 Saya sedang mendalami [Sebutkan teknologi yang sedang Anda pelajari, misal: arsitektur microservices atau machine learning].
+🌱 Saya sedang mendalami pengembangan web dan machine learning.
 
 💬 Tanya saya tentang PHP, Laravel, dan Pengembangan Web.
 
-📫 Cara menghubungi saya: [Email Anda]
-
-⚡ Fakta menarik: [Sebutkan hobi atau fakta unik tentang Anda, misal: Saya suka merakit mechanical keyboard].
 
 🛠️ Teknologi & Tools yang Saya Kuasai
 <p align="left">
