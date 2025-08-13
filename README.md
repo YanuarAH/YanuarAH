@@ -40,7 +40,7 @@ Ganti link dan deskripsinya.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 <h3 align="center">Website Profil Desa Metesih</h3>
 <br />
 <a target="_blank" href="https://github.com/YanuarAH/website-profile-desa-metesih">
