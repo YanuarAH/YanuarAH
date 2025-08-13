@@ -44,7 +44,7 @@ Ganti link dan deskripsinya.
 <h3 align="center">Website Profil Desa Metesih</h3>
 <br />
 <a target="_blank" href="https://github.com/YanuarAH/website-profile-desa-metesih">
-<img src="https://placehold.co/400x250/3b82f6/ffffff%3Ftext%3DWebsite%2BDesa%2BMetesih" alt="Proyek Website Desa Metesih"/>
+<img src="homepage_metesih.png" alt="Proyek Website Desa Metesih"/>
 </a>
 <br />
 <p align="center">
